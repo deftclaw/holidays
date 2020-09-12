@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  country: 1
+  holiday_date: 2020-09-08
+  states: MyString
+
+two:
+  name: MyString
+  description: MyText
+  country: 1
+  holiday_date: 2020-09-08
+  states: MyString
