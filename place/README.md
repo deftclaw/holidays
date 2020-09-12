@@ -2,7 +2,7 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.  
-_But Rails did that for us_
+_But Rails did that for us_  
 Things you may want to cover:
 
 * Ruby version
